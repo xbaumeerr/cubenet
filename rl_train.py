@@ -306,8 +306,6 @@ def rl_train(
             # UPDATING REWARD
             if turns_id:
                 reward += np.abs(current_turn_id - np.array(turns_id).mean())/(len(TURNSi)-1)
-            if current_turn != reversed_scramble[-1]:
-                reward -= 2.0
         
             # SAVING EXPERIENCE
             experience = Experience(

@@ -1,0 +1,618 @@
+    0 | Last loss 0.078222
+Saving model to .\\checkpoints\\self_zeroturns_cubenet\self_zeroturns_cubenet_0.chk... Last loss 0.0782223641872406
+    1 | Last loss 0.073942
+    2 | Last loss  0.06984
+    3 | Last loss 0.065875
+    4 | Last loss 0.061848
+    5 | Last loss 0.057843
+    6 | Last loss 0.054092
+    7 | Last loss 0.050193
+    8 | Last loss  0.04634
+    9 | Last loss 0.042502
+   10 | Last loss 0.038664
+   11 | Last loss 0.034853
+   12 | Last loss 0.031089
+   13 | Last loss 0.027329
+   14 | Last loss 0.023711
+   15 | Last loss 0.020266
+   16 | Last loss 0.016865
+   17 | Last loss 0.013814
+   18 | Last loss 0.010952
+   19 | Last loss 0.008324
+   20 | Last loss 0.006086
+   21 | Last loss 0.004219
+   22 | Last loss 0.002794
+   23 | Last loss 0.001712
+   24 | Last loss 0.001056
+   25 | Last loss 0.000759
+   26 | Last loss 0.000755
+   27 | Last loss 0.000986
+   28 | Last loss 0.001382
+   29 | Last loss 0.001821
+   30 | Last loss 0.002155
+   31 | Last loss  0.00261
+   32 | Last loss 0.002747
+   33 | Last loss 0.002809
+   34 | Last loss 0.002666
+   35 | Last loss 0.002465
+   36 | Last loss 0.002072
+   37 | Last loss 0.001717
+   38 | Last loss 0.001342
+   39 | Last loss 0.000964
+   40 | Last loss  0.00067
+   41 | Last loss 0.000412
+   42 | Last loss 0.000253
+   43 | Last loss 0.000158
+   44 | Last loss 0.000128
+   45 | Last loss  0.00013
+   46 | Last loss 0.000169
+   47 | Last loss 0.000235
+   48 | Last loss 0.000291
+   49 | Last loss 0.000343
+   50 | Last loss 0.000387
+   51 | Last loss 0.000413
+   52 | Last loss 0.000412
+   53 | Last loss 0.000409
+   54 | Last loss 0.000385
+   55 | Last loss 0.000333
+   56 | Last loss 0.000285
+   57 | Last loss 0.000232
+   58 | Last loss  0.00019
+   59 | Last loss 0.000142
+   60 | Last loss  9.7e-05
+   61 | Last loss    7e-05
+   62 | Last loss  5.1e-05
+   63 | Last loss  4.1e-05
+   64 | Last loss  3.4e-05
+   65 | Last loss  3.9e-05
+   66 | Last loss  4.9e-05
+   67 | Last loss  5.4e-05
+   68 | Last loss  6.3e-05
+   69 | Last loss  7.5e-05
+   70 | Last loss  7.7e-05
+   71 | Last loss  7.8e-05
+   72 | Last loss  7.6e-05
+   73 | Last loss  7.4e-05
+   74 | Last loss  5.9e-05
+   75 | Last loss  5.1e-05
+   76 | Last loss  4.4e-05
+   77 | Last loss  3.7e-05
+   78 | Last loss    3e-05
+   79 | Last loss  2.6e-05
+   80 | Last loss    2e-05
+   81 | Last loss    2e-05
+   82 | Last loss    2e-05
+   83 | Last loss  2.3e-05
+   84 | Last loss  2.1e-05
+   85 | Last loss  2.6e-05
+   86 | Last loss  2.8e-05
+   87 | Last loss  2.5e-05
+   88 | Last loss  2.5e-05
+   89 | Last loss  2.6e-05
+   90 | Last loss  2.6e-05
+   91 | Last loss  2.5e-05
+   92 | Last loss  2.3e-05
+   93 | Last loss  2.1e-05
+   94 | Last loss  2.1e-05
+   95 | Last loss  1.9e-05
+   96 | Last loss  1.9e-05
+   97 | Last loss  1.6e-05
+   98 | Last loss  1.8e-05
+   99 | Last loss  1.5e-05
+  100 | Last loss  1.5e-05
+Saving model to .\\checkpoints\\self_zeroturns_cubenet\self_zeroturns_cubenet_100.chk... Last loss 1.5430223356815986e-05
+Current turns picking: [('-', 9300), ('Li', 644), ('Di', 156), ('L', 0), ('R', 0), ('U', 0), ('D', 0), ('F', 0), ('B', 0), ('M', 0), ('E', 0), ('Ri', 0), ('Ui', 0), ('Fi', 0), ('Bi', 0), ('Mi', 0), ('Ei', 0)]
+Starting validation...
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+Validation average model vs solver coefficient: 1.0, average model vs scramble coefficient: 0.5378828427399902
+  101 | Last loss  1.6e-05
+  102 | Last loss  1.6e-05
+  103 | Last loss  1.6e-05
+  104 | Last loss  1.8e-05
+  105 | Last loss  1.5e-05
+  106 | Last loss  1.7e-05
+  107 | Last loss  1.6e-05
+  108 | Last loss  1.6e-05
+  109 | Last loss  1.7e-05
+  110 | Last loss  1.6e-05
+  111 | Last loss  1.5e-05
+  112 | Last loss  1.5e-05
+  113 | Last loss  1.4e-05
+  114 | Last loss  1.5e-05
+  115 | Last loss  1.5e-05
+  116 | Last loss  1.4e-05
+  117 | Last loss  1.5e-05
+  118 | Last loss  1.2e-05
+  119 | Last loss  1.5e-05
+  120 | Last loss  1.5e-05
+  121 | Last loss  1.5e-05
+  122 | Last loss  1.2e-05
+  123 | Last loss  1.3e-05
+  124 | Last loss  1.4e-05
+  125 | Last loss  1.4e-05
+  126 | Last loss  1.4e-05
+  127 | Last loss  1.2e-05
+  128 | Last loss  1.2e-05
+  129 | Last loss  1.3e-05
+  130 | Last loss  1.3e-05
+  131 | Last loss  1.5e-05
+  132 | Last loss  1.4e-05
+  133 | Last loss  1.2e-05
+  134 | Last loss  1.2e-05
+  135 | Last loss  1.2e-05
+  136 | Last loss  1.3e-05
+  137 | Last loss  1.1e-05
+  138 | Last loss  1.1e-05
+  139 | Last loss  1.4e-05
+  140 | Last loss  1.2e-05
+  141 | Last loss  1.2e-05
+  142 | Last loss  1.2e-05
+  143 | Last loss  1.3e-05
+  144 | Last loss  1.2e-05
+  145 | Last loss  1.1e-05
+  146 | Last loss  1.2e-05
+  147 | Last loss    1e-05
+  148 | Last loss  1.3e-05
+  149 | Last loss  1.2e-05
+  150 | Last loss  1.1e-05
+  151 | Last loss  1.3e-05
+  152 | Last loss  1.1e-05
+  153 | Last loss  1.1e-05
+  154 | Last loss  1.1e-05
+  155 | Last loss  1.1e-05
+  156 | Last loss    1e-05
+  157 | Last loss    1e-05
+  158 | Last loss    1e-05
+  159 | Last loss  1.1e-05
+  160 | Last loss    1e-05
+  161 | Last loss    1e-05
+  162 | Last loss  1.1e-05
+  163 | Last loss  1.1e-05
+  164 | Last loss    1e-05
+  165 | Last loss  1.1e-05
+  166 | Last loss  1.1e-05
+  167 | Last loss  1.1e-05
+  168 | Last loss    1e-05
+  169 | Last loss    1e-05
+  170 | Last loss    1e-05
+  171 | Last loss  1.1e-05
+  172 | Last loss  1.2e-05
+  173 | Last loss    1e-05
+  174 | Last loss    1e-05
+  175 | Last loss    1e-05
+  176 | Last loss    9e-06
+  177 | Last loss    9e-06
+  178 | Last loss    1e-05
+  179 | Last loss    9e-06
+  180 | Last loss    1e-05
+  181 | Last loss    1e-05
+  182 | Last loss    9e-06
+  183 | Last loss    9e-06
+  184 | Last loss    9e-06
+  185 | Last loss    9e-06
+  186 | Last loss    9e-06
+  187 | Last loss    9e-06
+  188 | Last loss  1.1e-05
+  189 | Last loss    9e-06
+  190 | Last loss    9e-06
+  191 | Last loss    9e-06
+  192 | Last loss    9e-06
+  193 | Last loss    9e-06
+  194 | Last loss    8e-06
+  195 | Last loss    9e-06
+  196 | Last loss    8e-06
+  197 | Last loss    9e-06
+  198 | Last loss    9e-06
+  199 | Last loss    9e-06
+  200 | Last loss    8e-06
+Saving model to .\\checkpoints\\self_zeroturns_cubenet\self_zeroturns_cubenet_200.chk... Last loss 8.304953553306405e-06
+Current turns picking: [('-', 19300), ('Li', 644), ('Di', 156), ('L', 0), ('R', 0), ('U', 0), ('D', 0), ('F', 0), ('B', 0), ('M', 0), ('E', 0), ('Ri', 0), ('Ui', 0), ('Fi', 0), ('Bi', 0), ('Mi', 0), ('Ei', 0)]
+Starting validation...
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+Validation average model vs solver coefficient: 1.0, average model vs scramble coefficient: 0.5378828427399902
+  201 | Last loss    9e-06
+  202 | Last loss    8e-06
+  203 | Last loss    8e-06
+  204 | Last loss    9e-06
+  205 | Last loss    7e-06
+  206 | Last loss    9e-06
+  207 | Last loss    8e-06
+  208 | Last loss    8e-06
+  209 | Last loss    8e-06
+  210 | Last loss    9e-06
+  211 | Last loss    9e-06
+  212 | Last loss    8e-06
+  213 | Last loss    8e-06
+  214 | Last loss    8e-06
+  215 | Last loss    7e-06
+  216 | Last loss    7e-06
+  217 | Last loss    8e-06
+  218 | Last loss    7e-06
+  219 | Last loss    7e-06
+  220 | Last loss    8e-06
+  221 | Last loss    7e-06
+  222 | Last loss    9e-06
+  223 | Last loss    8e-06
+  224 | Last loss    7e-06
+  225 | Last loss    8e-06
+  226 | Last loss    8e-06
+  227 | Last loss    8e-06
+  228 | Last loss    7e-06
+  229 | Last loss    7e-06
+  230 | Last loss    7e-06
+  231 | Last loss    8e-06
+  232 | Last loss    8e-06
+  233 | Last loss    6e-06
+  234 | Last loss    7e-06
+  235 | Last loss    7e-06
+  236 | Last loss    8e-06
+  237 | Last loss    7e-06
+  238 | Last loss    7e-06
+  239 | Last loss    7e-06
+  240 | Last loss    8e-06
+  241 | Last loss    7e-06
+  242 | Last loss    7e-06
+  243 | Last loss    8e-06
+  244 | Last loss    7e-06
+  245 | Last loss    6e-06
+  246 | Last loss    7e-06
+  247 | Last loss    7e-06
+  248 | Last loss    7e-06
+  249 | Last loss    7e-06
+  250 | Last loss    8e-06
+  251 | Last loss    6e-06
+  252 | Last loss    7e-06
+  253 | Last loss    6e-06
+  254 | Last loss    6e-06
+  255 | Last loss    6e-06
+  256 | Last loss    6e-06
+  257 | Last loss    8e-06
+  258 | Last loss    6e-06
+  259 | Last loss    6e-06
+  260 | Last loss    7e-06
+  261 | Last loss    6e-06
+  262 | Last loss    6e-06
+  263 | Last loss    7e-06
+  264 | Last loss    6e-06
+  265 | Last loss    7e-06
+  266 | Last loss    6e-06
+  267 | Last loss    6e-06
+  268 | Last loss    6e-06
+  269 | Last loss    7e-06
+  270 | Last loss    6e-06
+  271 | Last loss    7e-06
+  272 | Last loss    6e-06
+  273 | Last loss    6e-06
+  274 | Last loss    6e-06
+  275 | Last loss    6e-06
+  276 | Last loss    7e-06
+  277 | Last loss    6e-06
+  278 | Last loss    7e-06
+  279 | Last loss    6e-06
+  280 | Last loss    6e-06
+  281 | Last loss    6e-06
+  282 | Last loss    6e-06
+  283 | Last loss    5e-06
+  284 | Last loss    5e-06
+  285 | Last loss    5e-06
+  286 | Last loss    6e-06
+  287 | Last loss    6e-06
+  288 | Last loss    6e-06
+  289 | Last loss    6e-06
+  290 | Last loss    5e-06
+  291 | Last loss    6e-06
+  292 | Last loss    5e-06
+  293 | Last loss    5e-06
+  294 | Last loss    5e-06
+  295 | Last loss    6e-06
+  296 | Last loss    6e-06
+  297 | Last loss    6e-06
+  298 | Last loss    5e-06
+  299 | Last loss    6e-06
+  300 | Last loss    6e-06
+Saving model to .\\checkpoints\\self_zeroturns_cubenet\self_zeroturns_cubenet_300.chk... Last loss 6.377711997629376e-06
+Current turns picking: [('-', 29300), ('Li', 644), ('Di', 156), ('L', 0), ('R', 0), ('U', 0), ('D', 0), ('F', 0), ('B', 0), ('M', 0), ('E', 0), ('Ri', 0), ('Ui', 0), ('Fi', 0), ('Bi', 0), ('Mi', 0), ('Ei', 0)]
+Starting validation...
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+Validation average model vs solver coefficient: 1.0, average model vs scramble coefficient: 0.5378828427399902
+  301 | Last loss    5e-06
+  302 | Last loss    6e-06
+  303 | Last loss    5e-06
+  304 | Last loss    5e-06
+  305 | Last loss    5e-06
+  306 | Last loss    5e-06
+  307 | Last loss    5e-06
+  308 | Last loss    5e-06
+  309 | Last loss    5e-06
+  310 | Last loss    5e-06
+  311 | Last loss    5e-06
+  312 | Last loss    5e-06
+  313 | Last loss    5e-06
+  314 | Last loss    4e-06
+  315 | Last loss    5e-06
+  316 | Last loss    5e-06
+  317 | Last loss    5e-06
+  318 | Last loss    5e-06
+  319 | Last loss    5e-06
+  320 | Last loss    5e-06
+  321 | Last loss    5e-06
+  322 | Last loss    5e-06
+  323 | Last loss    5e-06
+  324 | Last loss    5e-06
+  325 | Last loss    5e-06
+  326 | Last loss    5e-06
+  327 | Last loss    5e-06
+  328 | Last loss    4e-06
+  329 | Last loss    5e-06
+  330 | Last loss    5e-06
+  331 | Last loss    5e-06
+  332 | Last loss    5e-06
+  333 | Last loss    5e-06
+  334 | Last loss    5e-06
+  335 | Last loss    4e-06
+  336 | Last loss    5e-06
+  337 | Last loss    5e-06
+  338 | Last loss    4e-06
+  339 | Last loss    4e-06
+  340 | Last loss    5e-06
+  341 | Last loss    5e-06
+  342 | Last loss    4e-06
+  343 | Last loss    4e-06
+  344 | Last loss    4e-06
+  345 | Last loss    5e-06
+  346 | Last loss    4e-06
+  347 | Last loss    5e-06
+  348 | Last loss    5e-06
+  349 | Last loss    4e-06
+  350 | Last loss    4e-06
+  351 | Last loss    4e-06
+  352 | Last loss    5e-06
+  353 | Last loss    5e-06
+  354 | Last loss    5e-06
+  355 | Last loss    4e-06
+  356 | Last loss    4e-06
+  357 | Last loss    4e-06
+  358 | Last loss    4e-06
+  359 | Last loss    4e-06
+  360 | Last loss    4e-06
+  361 | Last loss    4e-06
+  362 | Last loss    5e-06
+  363 | Last loss    5e-06
+  364 | Last loss    4e-06
+  365 | Last loss    5e-06
+  366 | Last loss    4e-06
+  367 | Last loss    4e-06
+  368 | Last loss    4e-06
+  369 | Last loss    4e-06
+  370 | Last loss    3e-06
+  371 | Last loss    4e-06
+  372 | Last loss    4e-06
+  373 | Last loss    4e-06
+  374 | Last loss    4e-06
+  375 | Last loss    5e-06
+  376 | Last loss    4e-06
+  377 | Last loss    5e-06
+  378 | Last loss    4e-06
+  379 | Last loss    4e-06
+  380 | Last loss    4e-06
+  381 | Last loss    4e-06
+  382 | Last loss    4e-06
+  383 | Last loss    4e-06
+  384 | Last loss    4e-06
+  385 | Last loss    4e-06
+  386 | Last loss    5e-06
+  387 | Last loss    3e-06
+  388 | Last loss    4e-06
+  389 | Last loss    4e-06
+  390 | Last loss    4e-06
+  391 | Last loss    4e-06
+  392 | Last loss    3e-06
+  393 | Last loss    4e-06
+  394 | Last loss    4e-06
+  395 | Last loss    4e-06
+  396 | Last loss    4e-06
+  397 | Last loss    4e-06
+  398 | Last loss    4e-06
+  399 | Last loss    4e-06
+  400 | Last loss    4e-06
+Saving model to .\\checkpoints\\self_zeroturns_cubenet\self_zeroturns_cubenet_400.chk... Last loss 4.0788099795463495e-06
+Current turns picking: [('-', 39300), ('Li', 644), ('Di', 156), ('L', 0), ('R', 0), ('U', 0), ('D', 0), ('F', 0), ('B', 0), ('M', 0), ('E', 0), ('Ri', 0), ('Ui', 0), ('Fi', 0), ('Bi', 0), ('Mi', 0), ('Ei', 0)]
+Starting validation...
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef 0.5379, five most common turns [('-', 1)]
+Validation average model vs solver coefficient: 1.0, average model vs scramble coefficient: 0.5378828427399902
+  401 | Last loss    4e-06
+  402 | Last loss    4e-06
+  403 | Last loss    4e-06
+  404 | Last loss    4e-06
+  405 | Last loss    3e-06
+  406 | Last loss    3e-06
+  407 | Last loss    4e-06
+  408 | Last loss    4e-06
+  409 | Last loss    3e-06
+  410 | Last loss    4e-06
+  411 | Last loss    3e-06
+  412 | Last loss    3e-06
+  413 | Last loss    3e-06
+  414 | Last loss    3e-06
+  415 | Last loss    4e-06
+  416 | Last loss    4e-06
+  417 | Last loss    3e-06
+  418 | Last loss    3e-06
+  419 | Last loss    3e-06
+  420 | Last loss    3e-06
+  421 | Last loss    3e-06
+  422 | Last loss    3e-06
+  423 | Last loss    3e-06
+  424 | Last loss    3e-06
+  425 | Last loss    3e-06
+  426 | Last loss    3e-06
+  427 | Last loss    4e-06
+  428 | Last loss    3e-06
+  429 | Last loss    3e-06
+  430 | Last loss    3e-06
+  431 | Last loss    4e-06
+  432 | Last loss    4e-06
+  433 | Last loss    3e-06
+  434 | Last loss    3e-06
+  435 | Last loss    3e-06
+  436 | Last loss    3e-06
+  437 | Last loss    3e-06
+  438 | Last loss    3e-06
+  439 | Last loss    3e-06
+  440 | Last loss    3e-06
+  441 | Last loss    3e-06
+  442 | Last loss    3e-06
+  443 | Last loss    3e-06
+  444 | Last loss    3e-06
+  445 | Last loss    3e-06
+  446 | Last loss    3e-06
+  447 | Last loss    3e-06
+  448 | Last loss    3e-06
+  449 | Last loss    3e-06
+  450 | Last loss    3e-06
+  451 | Last loss    3e-06
+  452 | Last loss    3e-06
+  453 | Last loss    3e-06
+  454 | Last loss    4e-06
+  455 | Last loss    3e-06
+  456 | Last loss    3e-06
+  457 | Last loss    3e-06
+  458 | Last loss    3e-06
+  459 | Last loss    3e-06
+  460 | Last loss    3e-06
+  461 | Last loss    3e-06
+  462 | Last loss    3e-06
+  463 | Last loss    3e-06
+  464 | Last loss    3e-06
+  465 | Last loss    3e-06
+  466 | Last loss    3e-06
+  467 | Last loss    3e-06
+  468 | Last loss    3e-06
+  469 | Last loss    3e-06
+  470 | Last loss    3e-06
+  471 | Last loss    3e-06
+  472 | Last loss    3e-06
+  473 | Last loss    3e-06
+  474 | Last loss    3e-06
+  475 | Last loss    3e-06
+  476 | Last loss    3e-06
+  477 | Last loss    3e-06
+  478 | Last loss    3e-06
+  479 | Last loss    3e-06
+  480 | Last loss    3e-06
+  481 | Last loss    3e-06
+  482 | Last loss    3e-06
+  483 | Last loss    3e-06
+  484 | Last loss    3e-06
+  485 | Last loss    3e-06
+  486 | Last loss    2e-06
+  487 | Last loss    3e-06
+  488 | Last loss    3e-06
+  489 | Last loss    3e-06
+  490 | Last loss    3e-06
+  491 | Last loss    3e-06
+  492 | Last loss    2e-06
+  493 | Last loss    3e-06
+  494 | Last loss    3e-06
+  495 | Last loss    2e-06
+  496 | Last loss    3e-06
+  497 | Last loss    3e-06
+  498 | Last loss    3e-06
+  499 | Last loss    2e-06
+Saving model to .\\checkpoints\\self_zeroturns_cubenet\self_zeroturns_cubenet_500.chk... Last loss 2.3473471628676634e-06

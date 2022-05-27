@@ -1,0 +1,8 @@
+Loading model from file path .\checkpoints\self_cubenet\self_cubenet_8000.chk...
+    0 | Last loss  0.04864
+Saving model to .\checkpoints\self_cubenet_from_1_to_5\self_cubenet_from_1_to_5_0.chk... Last loss 0.04863991588354111
+    1 | Last loss  0.03457
+    2 | Last loss 0.034704
+    3 | Last loss 0.038578
+    4 | Last loss 0.034129
+    5 | Last loss 0.035197

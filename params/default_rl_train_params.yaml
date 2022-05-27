@@ -1,0 +1,56 @@
+---
+# name to is in checkpoint files to save model
+model_name: cubenet
+
+# device to use
+device: cpu
+
+# path to save training progress with model (if is None, then neural network won't be saved)
+save_path: .\\checkpoints
+# save model each save_rate episode
+save_rate: 100
+
+# if is not None, then the model will be loaded from the file and the training continue 
+load_path: ~
+# the initial episode to start training
+load_epoch: 0
+
+# the path to log training messages
+log_path: .\\logs
+
+# how often to validate model
+validation_rate: 100
+# amount of episodes to use for validation
+validation_epochs: 25
+
+# rate of target network weights update to learned one
+target_update_rate: 10
+
+# the starting value of epsilone
+eps_start: 1.0
+# the minimum (maximum) value of epsilone
+eps_end: 0.01
+# the speed of epsilone value change
+eps_decay: 0.001
+
+# amount of episodes to go through during training
+num_epochs: 1000
+# maximum amount of timesteps in each episode
+num_timesteps: 50
+
+# minimum amount of random turns to apply to cube during training
+min_scramble_turns: 1
+# maximum amount of random turns to apply to cube during training
+max_scramble_turns: 5
+# probability of using blank scramble ['-'] instead of random
+p_of_solved_cube: 0.2
+
+# the size of memory to use in replay experience method
+memory_capacity: 100
+# the size of batch to get from replay memory
+batch_size: 20
+
+# learning rate
+lr: 0.001
+# gamma parameter of reinforcement learning for Bell's equations
+gamma: 0.999

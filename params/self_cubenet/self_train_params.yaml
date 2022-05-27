@@ -1,0 +1,44 @@
+---
+# name to is in checkpoint files to save model
+model_name: self_cubenet
+
+# use fully random batch generation
+fully_random: no
+
+# device to use
+device: cuda
+
+# amount of epochs
+num_epochs: 50000
+# the size of batch to use
+batch_size: 250
+
+# learning rate
+lr: 0.001
+
+# how often to validate model
+validation_rate: 100
+# amount of episodes to use for validation
+validation_epochs: 25
+
+# minimum amount of random turns to apply to cube during training
+min_scramble_turns: 1
+# maximum amount of random turns to apply to cube during training
+max_scramble_turns: 10
+# the ratio of batch to use with old amount of turns to scramble cube
+old_num_turns_ratio: 0.25
+# probability of using blank scramble ['-'] instead of random
+p_of_solved_cube: 0.1
+
+# save model each save_rate episode
+save_rate: 500
+# sath to save training progress with model (if is None, then neural network won't be saved)
+save_path: .\\checkpoints\\self_cubenet
+
+# if is not None, then the model will be loaded from the file and the training continue 
+load_path: .\\checkpoints\\self_zeroturns_cubenet\\self_zeroturns_cubenet_500.chk
+# initial epoch to start training
+load_epoch: 0
+
+# path to log training messages
+log_path: .\\logs\\self_cubenet

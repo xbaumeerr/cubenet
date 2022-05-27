@@ -1,0 +1,496 @@
+Loading model from file path .\\checkpoints\\test_self_zeroturns_cubenet\\test_self_zeroturns_cubenet_500.chk...
+    0 | Last loss 0.088314
+Saving model to .\\checkpoints\\test_self_cubenet\test_self_cubenet_0.chk... Last loss 0.08831432461738586
+    1 | Last loss 0.082451
+Current turns picking: [('-', 150000), ('L', 0), ('R', 0), ('U', 0), ('D', 0), ('F', 0), ('B', 0), ('M', 0), ('E', 0), ('Li', 0), ('Ri', 0), ('Ui', 0), ('Di', 0), ('Fi', 0), ('Bi', 0), ('Mi', 0), ('Ei', 0)]
+Starting validation...
+model vs solver coef  0.004, model vs scramble coef    0.0, five most common turns [('-', 247)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef 0.0053, model vs scramble coef    0.0, five most common turns [('-', 188)]
+model vs solver coef 0.0047, model vs scramble coef    0.0, five most common turns [('-', 215)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 256)]
+model vs solver coef 0.0038, model vs scramble coef    0.0, five most common turns [('-', 264)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef 0.0033, model vs scramble coef    0.0, five most common turns [('-', 301)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 259)]
+model vs solver coef 0.0047, model vs scramble coef    0.0, five most common turns [('-', 215)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef  0.004, model vs scramble coef    0.0, five most common turns [('-', 247)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 240)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 235)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef 0.0038, model vs scramble coef    0.0, five most common turns [('-', 264)]
+model vs solver coef 0.0038, model vs scramble coef    0.0, five most common turns [('-', 260)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 230)]
+model vs solver coef 0.0041, model vs scramble coef    0.0, five most common turns [('-', 242)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 240)]
+model vs solver coef 0.0035, model vs scramble coef    0.0, five most common turns [('-', 282)]
+Validation average model vs solver coefficient: 0.2430826036320024, average model vs scramble coefficient: 0.24
+Loading model from file path .\\checkpoints\\test_self_zeroturns_cubenet\\test_self_zeroturns_cubenet_500.chk...
+    0 | Last loss 0.109935
+Saving model to .\\checkpoints\\test_self_cubenet\test_self_cubenet_0.chk... Last loss 0.1099354550242424
+    1 | Last loss 0.098173
+    2 | Last loss 0.091568
+    3 | Last loss 0.090514
+    4 | Last loss 0.083728
+    5 | Last loss 0.082121
+    6 | Last loss 0.078677
+    7 | Last loss 0.077119
+    8 | Last loss 0.070286
+    9 | Last loss 0.071258
+   10 | Last loss 0.066029
+   11 | Last loss 0.065088
+   12 | Last loss  0.06751
+   13 | Last loss 0.064935
+   14 | Last loss 0.062258
+   15 | Last loss 0.060912
+   16 | Last loss 0.060997
+   17 | Last loss 0.062147
+   18 | Last loss 0.061655
+   19 | Last loss  0.05982
+   20 | Last loss 0.058905
+   21 | Last loss 0.059031
+   22 | Last loss 0.059923
+   23 | Last loss 0.059157
+   24 | Last loss 0.058752
+   25 | Last loss 0.058847
+   26 | Last loss 0.058746
+   27 | Last loss 0.058388
+   28 | Last loss 0.056461
+   29 | Last loss 0.058374
+   30 | Last loss 0.057182
+   31 | Last loss  0.05683
+   32 | Last loss 0.056331
+   33 | Last loss 0.057121
+   34 | Last loss 0.056716
+   35 | Last loss 0.056505
+   36 | Last loss 0.056391
+   37 | Last loss 0.055654
+   38 | Last loss 0.056396
+   39 | Last loss 0.055674
+   40 | Last loss  0.05528
+   41 | Last loss  0.05633
+   42 | Last loss 0.055809
+   43 | Last loss 0.055617
+   44 | Last loss 0.055142
+   45 | Last loss 0.055482
+   46 | Last loss 0.055384
+   47 | Last loss 0.055563
+   48 | Last loss  0.05536
+   49 | Last loss 0.055183
+   50 | Last loss  0.05512
+   51 | Last loss 0.055625
+   52 | Last loss 0.055612
+   53 | Last loss 0.055787
+   54 | Last loss 0.055461
+   55 | Last loss 0.055303
+   56 | Last loss 0.055018
+   57 | Last loss 0.055302
+   58 | Last loss 0.054662
+   59 | Last loss 0.055098
+   60 | Last loss 0.055373
+   61 | Last loss 0.055422
+   62 | Last loss 0.054891
+   63 | Last loss 0.055183
+   64 | Last loss 0.055469
+   65 | Last loss 0.055359
+   66 | Last loss 0.054919
+   67 | Last loss  0.05515
+   68 | Last loss 0.054981
+   69 | Last loss 0.054992
+   70 | Last loss 0.055047
+   71 | Last loss 0.055201
+   72 | Last loss  0.05508
+   73 | Last loss 0.055311
+   74 | Last loss 0.055151
+   75 | Last loss 0.055028
+   76 | Last loss   0.0554
+   77 | Last loss 0.055204
+   78 | Last loss 0.054618
+   79 | Last loss 0.055085
+   80 | Last loss 0.055162
+   81 | Last loss 0.055002
+   82 | Last loss 0.055064
+   83 | Last loss 0.055024
+   84 | Last loss 0.055064
+   85 | Last loss 0.055202
+   86 | Last loss 0.054948
+   87 | Last loss  0.05512
+   88 | Last loss 0.055264
+   89 | Last loss 0.055092
+   90 | Last loss 0.054976
+   91 | Last loss 0.054743
+   92 | Last loss 0.054696
+   93 | Last loss 0.055053
+   94 | Last loss 0.054619
+   95 | Last loss 0.054695
+   96 | Last loss 0.054686
+   97 | Last loss 0.054571
+   98 | Last loss 0.054788
+   99 | Last loss 0.054837
+  100 | Last loss 0.054741
+Current turns picking: [('-', 18842), ('Ei', 32), ('B', 8), ('R', 5), ('L', 0), ('U', 0), ('D', 0), ('F', 0), ('M', 0), ('E', 0), ('Li', 0), ('Ri', 0), ('Ui', 0), ('Di', 0), ('Fi', 0), ('Bi', 0), ('Mi', 0)]
+Starting validation...
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 278)]
+model vs solver coef 0.0046, model vs scramble coef    0.0, five most common turns [('-', 217)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 278)]
+model vs solver coef 0.0033, model vs scramble coef    0.0, five most common turns [('-', 301)]
+model vs solver coef 0.0041, model vs scramble coef    0.0, five most common turns [('-', 242)]
+model vs solver coef 0.0035, model vs scramble coef    0.0, five most common turns [('-', 282)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 240)]
+model vs solver coef 0.0035, model vs scramble coef    0.0, five most common turns [('-', 282)]
+model vs solver coef  0.004, model vs scramble coef    0.0, five most common turns [('-', 247)]
+model vs solver coef 0.0041, model vs scramble coef    0.0, five most common turns [('-', 242)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 230)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 278)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 230)]
+model vs solver coef 0.0047, model vs scramble coef    0.0, five most common turns [('-', 215)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 256)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef 0.0038, model vs scramble coef    0.0, five most common turns [('-', 264)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 240)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 230)]
+model vs solver coef 0.0053, model vs scramble coef    0.0, five most common turns [('-', 188)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 235)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 278)]
+Validation average model vs solver coefficient: 0.043834047353231334, average model vs scramble coefficient: 0.04
+  101 | Last loss 0.054656
+  102 | Last loss 0.054836
+  103 | Last loss 0.054788
+  104 | Last loss 0.054817
+  105 | Last loss 0.054967
+  106 | Last loss 0.054916
+  107 | Last loss 0.054995
+  108 | Last loss 0.054719
+  109 | Last loss 0.054937
+  110 | Last loss 0.054991
+  111 | Last loss 0.054619
+  112 | Last loss 0.054827
+  113 | Last loss 0.054635
+  114 | Last loss 0.054797
+  115 | Last loss  0.05472
+  116 | Last loss 0.054839
+  117 | Last loss 0.054945
+  118 | Last loss 0.054428
+  119 | Last loss 0.054598
+  120 | Last loss 0.054548
+  121 | Last loss 0.054781
+  122 | Last loss 0.054648
+  123 | Last loss 0.054759
+  124 | Last loss  0.05467
+  125 | Last loss 0.054502
+  126 | Last loss 0.054452
+  127 | Last loss 0.055056
+  128 | Last loss 0.054775
+  129 | Last loss 0.054646
+  130 | Last loss 0.054666
+  131 | Last loss 0.054753
+  132 | Last loss 0.054825
+  133 | Last loss 0.054633
+  134 | Last loss 0.054469
+  135 | Last loss  0.05454
+  136 | Last loss 0.054418
+  137 | Last loss 0.054568
+  138 | Last loss 0.054684
+  139 | Last loss 0.054761
+  140 | Last loss 0.054871
+  141 | Last loss  0.05468
+  142 | Last loss 0.054592
+  143 | Last loss 0.054723
+  144 | Last loss 0.054342
+  145 | Last loss 0.054463
+  146 | Last loss 0.054697
+  147 | Last loss 0.054529
+  148 | Last loss 0.054669
+  149 | Last loss 0.054607
+  150 | Last loss 0.054579
+  151 | Last loss 0.054658
+  152 | Last loss 0.054788
+  153 | Last loss 0.054391
+  154 | Last loss  0.05442
+  155 | Last loss  0.05451
+  156 | Last loss 0.054615
+  157 | Last loss 0.054528
+  158 | Last loss 0.054538
+  159 | Last loss 0.054438
+  160 | Last loss 0.054464
+  161 | Last loss 0.054246
+  162 | Last loss 0.054234
+  163 | Last loss 0.054533
+  164 | Last loss 0.054331
+  165 | Last loss 0.054179
+  166 | Last loss 0.054054
+  167 | Last loss 0.054253
+  168 | Last loss 0.054561
+  169 | Last loss 0.054008
+  170 | Last loss 0.054075
+  171 | Last loss 0.054183
+  172 | Last loss 0.054103
+  173 | Last loss  0.05406
+  174 | Last loss  0.05409
+  175 | Last loss 0.054163
+  176 | Last loss 0.054045
+  177 | Last loss 0.054125
+  178 | Last loss 0.053887
+  179 | Last loss 0.053987
+  180 | Last loss 0.053673
+  181 | Last loss 0.054132
+  182 | Last loss 0.054129
+  183 | Last loss 0.053944
+  184 | Last loss 0.054449
+  185 | Last loss 0.053725
+  186 | Last loss 0.053518
+  187 | Last loss 0.054124
+  188 | Last loss 0.054067
+  189 | Last loss 0.053928
+  190 | Last loss 0.054133
+  191 | Last loss 0.054082
+  192 | Last loss 0.053713
+  193 | Last loss 0.053665
+  194 | Last loss 0.054119
+  195 | Last loss 0.053959
+  196 | Last loss 0.053969
+  197 | Last loss  0.05395
+  198 | Last loss 0.054119
+  199 | Last loss 0.053837
+  200 | Last loss 0.054114
+Current turns picking: [('-', 34603), ('Ei', 989), ('Fi', 696), ('R', 515), ('Mi', 336), ('B', 280), ('U', 73), ('D', 51), ('L', 40), ('Ui', 4), ('F', 0), ('M', 0), ('E', 0), ('Li', 0), ('Ri', 0), ('Di', 0), ('Bi', 0)]
+Starting validation...
+model vs solver coef 0.0033, model vs scramble coef    0.0, five most common turns [('-', 301)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef 0.0041, model vs scramble coef    0.0, five most common turns [('-', 242)]
+model vs solver coef  0.004, model vs scramble coef    0.0, five most common turns [('-', 247)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 259)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 278)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 255), ('Ei', 1)]
+model vs solver coef 0.0033, model vs scramble coef    0.0, five most common turns [('-', 301)]
+model vs solver coef  0.004, model vs scramble coef    0.0, five most common turns [('-', 246), ('Mi', 1)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('Ei', 1)]
+model vs solver coef 0.0053, model vs scramble coef    0.0, five most common turns [('-', 188)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 256)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 235)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 240)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 240)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 278)]
+model vs solver coef  0.004, model vs scramble coef    0.0, five most common turns [('-', 247)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 240)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 256)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 277)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 278)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('-', 259)]
+Validation average model vs solver coefficient: 0.12344237665154298, average model vs scramble coefficient: 0.12
+  201 | Last loss 0.054007
+  202 | Last loss 0.053719
+  203 | Last loss 0.054035
+  204 | Last loss 0.053708
+  205 | Last loss  0.05384
+  206 | Last loss 0.053981
+  207 | Last loss 0.053831
+  208 | Last loss 0.053436
+  209 | Last loss 0.053919
+  210 | Last loss 0.053868
+  211 | Last loss 0.053775
+  212 | Last loss 0.053194
+  213 | Last loss 0.053421
+  214 | Last loss 0.053997
+  215 | Last loss 0.053931
+  216 | Last loss  0.05349
+  217 | Last loss 0.053634
+  218 | Last loss 0.053549
+  219 | Last loss 0.053077
+  220 | Last loss 0.053607
+  221 | Last loss 0.053611
+  222 | Last loss  0.05383
+  223 | Last loss 0.053859
+  224 | Last loss 0.053543
+  225 | Last loss 0.053872
+  226 | Last loss 0.053832
+  227 | Last loss 0.053417
+  228 | Last loss 0.053631
+  229 | Last loss 0.053474
+  230 | Last loss  0.05356
+  231 | Last loss 0.053494
+  232 | Last loss 0.053417
+  233 | Last loss 0.053147
+  234 | Last loss 0.053541
+  235 | Last loss 0.053529
+  236 | Last loss 0.053297
+  237 | Last loss 0.053508
+  238 | Last loss 0.053292
+  239 | Last loss 0.053611
+  240 | Last loss  0.05319
+  241 | Last loss 0.053752
+  242 | Last loss 0.052933
+  243 | Last loss 0.053263
+  244 | Last loss 0.053607
+  245 | Last loss 0.053463
+  246 | Last loss 0.053206
+  247 | Last loss 0.052758
+  248 | Last loss 0.052987
+  249 | Last loss 0.053497
+  250 | Last loss 0.053213
+  251 | Last loss 0.052901
+  252 | Last loss 0.053159
+  253 | Last loss 0.053309
+  254 | Last loss 0.052938
+  255 | Last loss 0.053122
+  256 | Last loss 0.052672
+  257 | Last loss 0.052751
+  258 | Last loss 0.052596
+  259 | Last loss 0.052984
+  260 | Last loss 0.052525
+  261 | Last loss 0.053056
+  262 | Last loss 0.052961
+  263 | Last loss 0.053011
+  264 | Last loss  0.05303
+  265 | Last loss 0.052925
+  266 | Last loss 0.052628
+  267 | Last loss 0.052459
+  268 | Last loss 0.053031
+  269 | Last loss 0.052173
+  270 | Last loss 0.052869
+  271 | Last loss 0.052714
+  272 | Last loss 0.052915
+  273 | Last loss 0.052853
+  274 | Last loss 0.052776
+  275 | Last loss 0.052193
+  276 | Last loss 0.052161
+  277 | Last loss 0.052342
+Changing main number of turns to 2... Last loss 0.05234169214963913
+  278 | Last loss 0.053187
+  279 | Last loss  0.05349
+  280 | Last loss 0.053547
+  281 | Last loss 0.053473
+  282 | Last loss 0.053655
+  283 | Last loss 0.053371
+  284 | Last loss 0.053847
+  285 | Last loss 0.053592
+  286 | Last loss 0.053384
+  287 | Last loss 0.053566
+  288 | Last loss 0.053546
+  289 | Last loss 0.052695
+  290 | Last loss 0.053027
+  291 | Last loss 0.052972
+  292 | Last loss 0.053243
+  293 | Last loss  0.05271
+  294 | Last loss 0.052574
+  295 | Last loss 0.052827
+  296 | Last loss 0.052747
+  297 | Last loss 0.052949
+  298 | Last loss   0.0527
+  299 | Last loss 0.053582
+  300 | Last loss 0.053171
+Current turns picking: [('-', 45389), ('Ei', 2609), ('Mi', 2306), ('R', 2071), ('Fi', 1667), ('B', 1344), ('D', 1144), ('L', 612), ('Ui', 221), ('Di', 162), ('Li', 105), ('U', 83), ('F', 0), ('M', 0), ('E', 0), ('Ri', 0), ('Bi', 0)]
+Starting validation...
+model vs solver coef 0.0037, model vs scramble coef    0.0, five most common turns [('-', 261), ('Ei', 3), ('Mi', 1), ('D', 1), ('Fi', 1)]
+model vs solver coef 0.0041, model vs scramble coef    0.0, five most common turns [('-', 239), ('Ei', 3), ('Mi', 1)]
+model vs solver coef 0.0038, model vs scramble coef    0.0, five most common turns [('-', 263), ('Ui', 1)]
+model vs solver coef 0.0039, model vs scramble coef    0.0, five most common turns [('L', 129), ('Li', 127), ('Ei', 2)]
+model vs solver coef 0.0037, model vs scramble coef    0.0, five most common turns [('-', 265), ('Mi', 1), ('Ei', 1), ('R', 1), ('B', 1)]
+model vs solver coef    1.0, model vs scramble coef 1.4621, five most common turns [('-', 1)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('D', 1)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 226), ('Mi', 3), ('R', 1), ('Fi', 1), ('Ei', 1)]
+model vs solver coef 0.0042, model vs scramble coef    0.0, five most common turns [('-', 236), ('B', 2), ('D', 1), ('Ei', 1)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 224), ('Mi', 3), ('L', 2), ('R', 1), ('B', 1)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('Mi', 277), ('Li', 1)]
+model vs solver coef 0.0033, model vs scramble coef    0.0, five most common turns [('Mi', 298), ('B', 1), ('Ei', 1), ('L', 1)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('L', 1)]
+model vs solver coef 0.9967, model vs scramble coef    1.0, five most common turns [('Mi', 1), ('Ei', 1)]
+model vs solver coef 0.0037, model vs scramble coef    0.0, five most common turns [('-', 268)]
+model vs solver coef 0.0038, model vs scramble coef    0.0, five most common turns [('-', 264), ('Fi', 1), ('B', 1)]
+model vs solver coef 0.0038, model vs scramble coef    0.0, five most common turns [('-', 264), ('Ei', 2)]
+model vs solver coef 0.9919, model vs scramble coef 0.2384, five most common turns [('Mi', 3)]
+model vs solver coef 0.0048, model vs scramble coef    0.0, five most common turns [('-', 209)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('-', 228), ('Ei', 3), ('R', 2), ('Ui', 1), ('B', 1)]
+model vs solver coef 0.0033, model vs scramble coef    0.0, five most common turns [('-', 300), ('Mi', 1)]
+model vs solver coef 0.0043, model vs scramble coef    0.0, five most common turns [('R', 230), ('Ei', 2), ('Mi', 1), ('B', 1)]
+model vs solver coef 0.0036, model vs scramble coef    0.0, five most common turns [('-', 256), ('R', 12), ('Ei', 3), ('Fi', 2), ('L', 1)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('Mi', 1)]
+model vs solver coef    1.0, model vs scramble coef    1.0, five most common turns [('-', 1)]
+Validation average model vs solver coefficient: 0.28236171847557434, average model vs scramble coefficient: 0.26802092005216976
+  301 | Last loss 0.052872
+  302 | Last loss 0.053259
+  303 | Last loss 0.052856
+  304 | Last loss  0.05327
+  305 | Last loss 0.052546
+  306 | Last loss 0.052271
+  307 | Last loss 0.053608
+  308 | Last loss 0.052771
+  309 | Last loss 0.053211
+  310 | Last loss 0.052903
+  311 | Last loss 0.052847
+  312 | Last loss 0.052915
+  313 | Last loss 0.052555
+  314 | Last loss 0.052892
+  315 | Last loss  0.05295
+  316 | Last loss 0.053027
+  317 | Last loss 0.052602
+  318 | Last loss 0.052847
+  319 | Last loss 0.052098
+  320 | Last loss 0.052575
+  321 | Last loss 0.052673
+  322 | Last loss 0.053098
+  323 | Last loss 0.052482
+  324 | Last loss 0.053278
+  325 | Last loss 0.052397
+  326 | Last loss 0.052102
+  327 | Last loss 0.052764
+  328 | Last loss 0.052942
+  329 | Last loss 0.053009
+  330 | Last loss 0.052505
+  331 | Last loss 0.053504
+  332 | Last loss 0.052931
+  333 | Last loss 0.052526
+  334 | Last loss 0.052339
+  335 | Last loss  0.05297
+  336 | Last loss 0.052824
+  337 | Last loss 0.052516
+  338 | Last loss 0.052349
+  339 | Last loss 0.052609
+  340 | Last loss 0.053575
+  341 | Last loss  0.05229
+  342 | Last loss 0.052922
+  343 | Last loss 0.052487
+  344 | Last loss 0.052556
+  345 | Last loss  0.05204
+  346 | Last loss 0.053261
+  347 | Last loss 0.052348
+  348 | Last loss 0.052328
+  349 | Last loss 0.052276
+  350 | Last loss 0.052476
+  351 | Last loss 0.052547
+  352 | Last loss 0.052431
+  353 | Last loss 0.052482
+  354 | Last loss 0.052404
+  355 | Last loss 0.052009
+  356 | Last loss 0.052227
+  357 | Last loss 0.053043
+  358 | Last loss 0.051779
+  359 | Last loss 0.053277
+  360 | Last loss 0.052848
+  361 | Last loss 0.053027
+  362 | Last loss 0.052431
+  363 | Last loss 0.052954
+  364 | Last loss 0.052725
+  365 | Last loss  0.05277
+  366 | Last loss 0.052984
+  367 | Last loss 0.052716
+  368 | Last loss 0.052222
+  369 | Last loss 0.051712
+  370 | Last loss 0.052122
+  371 | Last loss 0.052304
+  372 | Last loss 0.052303
+  373 | Last loss  0.05223
+  374 | Last loss 0.052813
+  375 | Last loss 0.052256
+  376 | Last loss 0.052805

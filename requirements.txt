@@ -1,0 +1,6 @@
+numpy==1.21.6
+PyYAML==6.0
+rubik==0.0.1
+rubik_cube==0.0.1
+torch==1.11.0+cu113
+tqdm==4.62.3
